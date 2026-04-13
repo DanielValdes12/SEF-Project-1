@@ -1,4 +1,3 @@
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/CalebClose1/SEF-Project-1/badge)](https://scorecard.dev/viewer/?uri=github.com/CalebClose1/SEF-Project-1)
 # SEF-Project-1
 
 Root-Level Folders and Files
