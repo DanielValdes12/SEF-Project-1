@@ -1,7 +1,7 @@
 # SEF-Project-1
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12521/badge)](https://www.bestpractices.dev/projects/12521)
-[![ossf scorecard](https://api.scorecard.dev/projects/github.com/DanielValdes12/SEF-Project-1/badge)](https://scorecard.dev/viewer/?uri=github.com/DanielValdes12/SEF-Project-1)
+[![ossf scorecard](https://api.scorecard.dev/projects/github.com/DanielValdes12/SEF-Project-1/badge?v=1)](https://scorecard.dev/viewer/?uri=github.com/DanielValdes12/SEF-Project-1)
 
 Root-Level Folders and Files
 
