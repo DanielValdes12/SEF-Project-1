@@ -1,5 +1,7 @@
 # SEF-Project-1
 
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12521/badge)](https://www.bestpractices.dev/projects/12521)
+
 Root-Level Folders and Files
 
 backend
